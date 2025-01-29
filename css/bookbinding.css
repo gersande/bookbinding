@@ -44,3 +44,9 @@ body {
 }
 
 /* Navigation */
+
+@media (max-width: 576px) {
+    #mobile-hidden {
+        display: none;
+    }
+}
