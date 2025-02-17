@@ -50,3 +50,9 @@ body {
         display: none;
     }
 }
+
+/**/
+
+#content > div > ul > li > article > a > img {
+    max-width: 10em !important;
+}
